@@ -1,0 +1,24 @@
+{
+  "check_ins": [
+    {
+      "date": "2025-11-23T21:43:52.834722",
+      "mood": "okay",
+      "objectives": [
+        "watch a movie",
+        "get fresh",
+        "sleep for tomorrow's class"
+      ],
+      "summary": "The user is feeling okay with normal energy levels. Objectives for the evening include watching a movie, getting fresh, and sleeping for tomorrow's class."
+    },
+    {
+      "date": "2025-11-23T22:22:46.457756",
+      "mood": "7 out of 10",
+      "objectives": [
+        "read a book for twenty minutes",
+        "take a walk or talk to someone",
+        "sleep as soon as possible"
+      ],
+      "summary": "The user reported a mood of 7 out of 10 and good energy. Objectives for the evening include reading for twenty minutes, taking a walk or talking to someone, and going to sleep as soon as possible."
+    }
+  ]
+}
